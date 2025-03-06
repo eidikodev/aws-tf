@@ -1,0 +1,13 @@
+# Ignore files that are tracked by LFS
+*.psd
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.exe
+
+# Ignore terraform LFS files
+.terraform/
+*.zip
+*.tar.gz
+terraform-provider-aws_v5.89.0_x5
